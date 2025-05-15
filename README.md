@@ -1,6 +1,9 @@
 # MCP Filesystem
 A simple Model Context Protocol (MCP) application that provides filesystem operations using Ollama local LLM. This project demonstrates the integration of local AI models with filesystem operations through a client-server architecture.
 
+## Architecture
+![image](./architecture.png)
+
 ## Features
 - Client-server architecture using MCP protocol
 - Integration with Ollama local LLM (Microsoft Phi-3 3.8b model)
